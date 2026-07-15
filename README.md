@@ -41,8 +41,12 @@ process of ticket booking and its also provide user 24*7 access to book ticekts.
   + Admin can add bus in the database.
   + Admin can view all bus.
   + Admin can view all customer.
-
+ 
 ## Learnings
   + Got to know how to connect our Java application to database.
   + Learned about JDBC oprtaions.
   + Learned about many new sql queries.
+  
+
+  
+  
